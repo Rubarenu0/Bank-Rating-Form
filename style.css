@@ -1,0 +1,48 @@
+body,input{
+    background-image: linear-gradient(to right,lightgrey,white);
+}
+.section{
+    background-color: green;
+}
+h3,i{
+    margin-top: 10px;
+    color: white;
+}
+h3{
+    margin-left: 20px;
+    color: white;
+}
+.head3,.head1{
+    color: white;
+}
+.section2{
+    margin: 50px;
+}
+.col-8 input{
+    width: 90%;
+}
+.col-4 input{
+    width: 80%;
+}
+.col-3 h5{
+    margin-right: 40px;
+}
+.col-2 input{
+    width: 58%;
+}
+.col3 input{
+    width: 70%;
+}
+#line input{
+    border: none;
+    border-bottom: 1px solid black;
+}
+#circle,#circle1{
+    color: green;
+}
+#circle1{
+    margin-left: 50%;
+}
+input{
+    border: 1px solid black;
+}
